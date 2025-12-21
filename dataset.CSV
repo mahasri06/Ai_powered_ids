@@ -1,0 +1,17 @@
+len,src_port,dst_port,proto,label
+60,443,51512,6,normal
+58,443,51513,6,normal
+62,80,51514,6,normal
+70,22,51515,6,normal
+64,53,51516,17,normal
+55,123,51517,17,normal
+68,443,51518,6,normal
+72,80,51519,6,normal
+59,8080,51520,6,normal
+66,8443,51521,6,normal
+
+60,23,51522,6,attack
+48,3389,51523,6,attack
+90,445,51524,6,attack
+65,21,51525,6,attack
+75,23,51526,6,attack
